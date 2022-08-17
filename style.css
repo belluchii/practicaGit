@@ -4,3 +4,8 @@
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-decoration: none;
 }
+
+h1 {
+  margin: auto;
+  background: linear-gradient(45deg, #000, #f0f, #fff);
+}
